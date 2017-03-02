@@ -2,7 +2,7 @@ package com.example.administrator.gitdemo;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
-
+/** 更改信息*/
 public class MainActivity extends AppCompatActivity {
 
     @Override
